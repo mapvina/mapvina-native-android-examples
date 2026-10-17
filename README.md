@@ -41,7 +41,7 @@ dependencies {
 
 ### 1. Khai báo MapView trong Layout XML:
 ```xml
-<com.mapvina.android.maps.MapView
+<io.github.mapvina.android.maps.MapView
     android:id="@+id/mapView"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
